@@ -1,0 +1,104 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background: rgb(110, 216, 243);
+}
+#Para
+{
+    font-family: Magneto;
+    text-align:center;
+    font-size: 50px;
+}
+
+ol
+{
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+}
+
+    #section2
+{
+    background: rgb(110, 216, 243);
+    width: 100%;
+    overflow: hidden;
+}
+
+#section2 h2
+{
+    padding-top: 90px;
+    text-align:center;
+}
+
+#blocksection2
+{
+    max-width: 80px;
+    margin: 0 auto;
+}
+#Blemy
+{
+    background: url("Réalisateur/MATHIEU.jpeg") no-repeat 50% 50%;
+    height: 900px;
+}
+#Berlin
+{
+    background: url("Réalisateur/Berlin.jpg") no-repeat 50% 50%;
+    height: 900px;
+}
+#Johns
+{
+    background: url("Réalisateur/IIKV0618.JPG") no-repeat 50% 50%;
+    height: 900px;
+}
+#Mathieu
+{
+    background: url("Réalisateur/mattt.jpg") no-repeat 50% 50%;
+    height: 500px;
+}
+#Wenso
+{
+    background: url("Réalisateur/Wenso.jpg") no-repeat 50% 50%;
+    height: 900px;
+}
+
+#section2 li
+{
+    margin: 65px 100px 0px 100px;
+    height: 900px;
+    width: 55%;
+    float: left;
+    max-width: 550px;
+    border-radius: 10px;
+    box-shadow: 6px 6px 28px -1px rgba(0, 0, 0, 0.75);
+}
+
+#section2 p
+{
+    height: 45px;
+    width: 235px;
+    float: right;
+    margin: 50px -180px 0 0;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 15px;
+    box-shadow: 4px 4px 0 1px rgb(106, 108, 243) ;
+    border-radius: 20px;
+}
+
+#Blemy p, #Johns p
+{
+    float:left;
+    margin-top: 80%;
+    padding-top: 10px;
+    opacity: 0.9;
+    box-shadow: 4px 8px 9px rgb(204, 204, 198);
+}
+
+#Berlin p, #Wenso p
+{
+    float:right;
+    opacity: 0.9;
+    margin-top:80%;
+    box-shadow: 4px 8px 9px rgb(204, 204, 198);
+
+}
